@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: 10.150.0.47
   become: true
   tasks:
   - name: Creating multiple directories
