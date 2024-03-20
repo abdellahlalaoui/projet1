@@ -1,5 +1,5 @@
 ---
-- hosts: Inventaire2
+- hosts: All
   become: true
   tasks:
   - name: Creating multiple directories
